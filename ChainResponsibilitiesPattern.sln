@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainResponsibilitiesPattern", "ChainResponsibilitiesPattern\ChainResponsibilitiesPattern.csproj", "{FDA2CEAF-B3B1-4AAA-A1B0-195CB1FEAF93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDA2CEAF-B3B1-4AAA-A1B0-195CB1FEAF93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA2CEAF-B3B1-4AAA-A1B0-195CB1FEAF93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA2CEAF-B3B1-4AAA-A1B0-195CB1FEAF93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA2CEAF-B3B1-4AAA-A1B0-195CB1FEAF93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A8E9109-DCAC-4338-9FAA-72B5345EA55D}
+	EndGlobalSection
+EndGlobal
